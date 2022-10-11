@@ -13,3 +13,4 @@ This repository contains all the code to reproduce the results:
 * grid-search.sh --- Shell file to run with different choice of learning rate and batch size to exhibit the transition from compression to expansion.
 
 It is noteworthy that different from the standard Pytorch implementations of Resnet18, VGG16-BN, and Densenet121, we made a slight modification by changing the structure of Conv-BN-ReLU-Conv to Conv-ReLU-BN-Conv.
+If you have any question, please feel free to contact me (cltan023 at outlook.com).
